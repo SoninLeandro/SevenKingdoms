@@ -1,0 +1,38 @@
+.body {
+  background-color: rgb(120, 200, 236);
+}
+
+.body .row {
+  padding-bottom: 30px;
+}
+
+.body h3 {
+  align-content: center;
+  color: rgb(30, 110, 5);
+  font-family: cursive;
+  padding: 10px 40px;
+  margin: 10px 250px;
+}
+
+.body p {
+  border: thin solid rgb(255, 255, 255);
+  border-radius: 18px;
+  padding: 20px;
+  margin: 40px 90px;
+  font-size: large;
+  font-family: monospace;
+  background-color: rgba(95, 155, 27, 0.692);
+  color: rgb(0, 0, 0);
+}
+
+img {
+  margin-bottom: 25px;
+  border: black thin solid;
+}
+
+.body h5 {
+  text-align: justify;
+  padding: 0px 80px;
+  color: rgb(13, 5, 83);
+  font-family: monospace;
+}

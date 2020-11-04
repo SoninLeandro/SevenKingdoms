@@ -1,0 +1,28 @@
+.about {
+  background-color: rgb(120, 200, 236);
+  font-family: cursive;
+  min-height: 120vh;
+  padding: 40px 20px;
+}
+
+div.card {
+  background-color: rgb(120, 200, 236);
+}
+
+.card-body {
+  text-align: justify;
+  font-family: monospace;
+  font-size: large;
+  background-color: rgba(34, 158, 9, 0.527);
+  color: rgb(255, 255, 255);
+}
+
+.card-text {
+  align-content: center;
+}
+
+.card-title {
+  color: rgb(255, 255, 255);
+  font-size: x-large;
+  font-family: cursive;
+}

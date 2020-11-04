@@ -1,0 +1,15 @@
+.navbar {
+  font-family: cursive;
+  align-items: center;
+  align-content: center;
+}
+
+.social-link {
+  padding: 20px 25px;
+}
+
+.navbar .nav .nav-link {
+  padding: 10px 10px;
+  font-size: 19px;
+  color: white;
+}

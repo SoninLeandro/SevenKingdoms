@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.table-app {
+  padding-top: 78vh;
+  background-image: url("./assets/fondoPantalla.jpg");
+  background-position: center;
+  background-size: 90%;
+  min-height: 90vh;
+}

@@ -1,0 +1,20 @@
+.footer {
+  min-height: 10vh;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.897);
+  font-family: cursive;
+  color: rgb(240, 197, 190);
+}
+
+.footer h4 {
+  padding: 5px;
+  align-items: center;
+  color: rgb(240, 197, 190);
+}
+
+.footer h5 {
+  padding: 5px;
+  align-items: center;
+  color: rgb(240, 197, 190);
+  font-family: cursive;
+}
