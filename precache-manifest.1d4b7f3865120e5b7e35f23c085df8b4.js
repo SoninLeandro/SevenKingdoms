@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b41399bb0bf0b8865ddac14bc5786336",
+    "revision": "506775df1e721fe54c908a6e6cc4a028",
     "url": "/SevenKingdoms/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SevenKingdoms/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "0867639c91b94aedddd6",
+    "revision": "81c56b410f6891d04e99",
     "url": "/SevenKingdoms/static/css/main.b673e3c7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SevenKingdoms/static/js/2.b0e53b2c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0867639c91b94aedddd6",
-    "url": "/SevenKingdoms/static/js/main.5f3cd16e.chunk.js"
+    "revision": "81c56b410f6891d04e99",
+    "url": "/SevenKingdoms/static/js/main.363c8df2.chunk.js"
   },
   {
     "revision": "655fc5ae674e7fc5d0be",

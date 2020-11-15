@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SevenKingdoms/precache-manifest.cfbba5bb0ce40d39881d88f035885103.js"
+  "/SevenKingdoms/precache-manifest.1d4b7f3865120e5b7e35f23c085df8b4.js"
 );
 
 self.addEventListener('message', (event) => {
