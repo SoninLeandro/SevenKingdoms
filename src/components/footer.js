@@ -40,7 +40,13 @@ function Footer() {
             icon={faEnvelope}
             style={{ fontSize: "x-large", color: "pink" }}
           />
-          <h4>Mail: sevenk.ingles@gmail.com</h4>
+          <a
+            href="mailto: sevenk.ingles@gmail.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h4>Contactar por correo</h4>
+          </a>
         </div>
       </div>
     </div>
