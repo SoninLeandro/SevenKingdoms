@@ -19,9 +19,6 @@ function NavBarra() {
       variant="dark"
     >
       <Nav className="nav">
-        <Link to="/" className="nav-link">
-          Home
-        </Link>
         <Link to="/about" className="nav-link">
           About us
         </Link>
@@ -29,8 +26,9 @@ function NavBarra() {
           Horarios
         </Link>
       </Nav>
-      <Header />
-
+      <Link to="/" className="nav-link">
+        <Header />
+      </Link>
       <a
         className="social-link"
         href="https://www.instagram.com/sevenkingdoms.ingles/"

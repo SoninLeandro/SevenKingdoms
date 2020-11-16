@@ -45,7 +45,7 @@ function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <h4>Contactar por correo</h4>
+            <h4>Contact us</h4>
           </a>
         </div>
       </div>
